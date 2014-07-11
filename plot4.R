@@ -31,7 +31,7 @@ attach(df)
 
 
 #Create plot 4
-png(file = "png4.png")
+png(file = "plot4.png")
 
 par(mfrow = c(2,2))
 par("mar")
